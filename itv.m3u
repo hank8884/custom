@@ -219,43 +219,43 @@ http://192.168.100.1:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 http://192.168.100.1:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="NEWTV哒啵赛事" tvg-name="NEWTV哒啵赛事" tvg-logo="https://epg.v1.mk/logo/哒啵赛事.png" group-title="NEWTV",NewTV-哒啵赛事
 http://192.168.100.1:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其他",中国教育电视台-1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png" group-title="其它",中国教育电视台-1
 http://192.168.100.1:35455/itv/5000000002000002652.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.v1.mk/logo/中国教育4台.png" group-title="其他",中国教育电视台-4
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.v1.mk/logo/中国教育4台.png" group-title="其它",中国教育电视台-4
 http://192.168.100.1:35455/itv/5000000011000031126.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其他",咪咕全民热练
+#EXTINF:-1,tvg-id="咪咕全民热练" tvg-name="咪咕全民热练" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="其它",咪咕全民热练
 http://192.168.100.1:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
-#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png" group-title="其他",求索动物
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.v1.mk/logo/求索动物.png" group-title="其它",求索动物
 http://192.168.100.1:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png" group-title="其他",求索纪录
+#EXTINF:-1,tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.v1.mk/logo/求索纪录.png" group-title="其它",求索纪录
 http://192.168.100.1:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.v1.mk/logo/求索科学.png" group-title="其他",求索科学
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.v1.mk/logo/求索科学.png" group-title="其它",求索科学
 http://192.168.100.1:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png" group-title="其他",求索生活
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.v1.mk/logo/求索生活.png" group-title="其它",求索生活
 http://192.168.100.1:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="SITV动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其他",SiTV-动漫秀场
+#EXTINF:-1,tvg-id="SITV动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其它",SiTV-动漫秀场
 http://192.168.100.1:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.v1.mk/logo/SITV都市剧场.png" group-title="其他",SiTV-都市剧场
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.v1.mk/logo/SITV都市剧场.png" group-title="其它",SiTV-都市剧场
 http://192.168.100.1:35455/itv/5000000011000031111.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.v1.mk/logo/SITV法治天地.png" group-title="其他",SiTV-法治天地
+#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.v1.mk/logo/SITV法治天地.png" group-title="其它",SiTV-法治天地
 http://192.168.100.1:35455/itv/9001547084732463424.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其他",SiTV-欢笑剧场
+#EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其它",SiTV-欢笑剧场
 http://192.168.100.1:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.v1.mk/logo/SITV欢笑剧场.png" group-title="其它",SiTV-欢笑剧场-4K
 http://192.168.100.1:35455/itv/5000000007000010001.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.v1.mk/logo/SITV金色学堂.png" group-title="其他",SiTV-金色学堂
+#EXTINF:-1,tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.v1.mk/logo/SITV金色学堂.png" group-title="其它",SiTV-金色学堂
 http://192.168.100.1:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.v1.mk/logo/SITV劲爆体育.png" group-title="其他",SiTV-劲爆体育
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.v1.mk/logo/SITV劲爆体育.png" group-title="其它",SiTV-劲爆体育
 http://192.168.100.1:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV乐游" tvg-name="SITV乐游" tvg-logo="https://epg.v1.mk/logo/SITV乐游.png" group-title="其他",SiTV-乐游
+#EXTINF:-1,tvg-id="SITV乐游" tvg-name="SITV乐游" tvg-logo="https://epg.v1.mk/logo/SITV乐游.png" group-title="其它",SiTV-乐游
 http://192.168.100.1:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV魅力足球" tvg-name="SITV魅力足球" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其他",SiTV-魅力足球
+#EXTINF:-1,tvg-id="SITV魅力足球" tvg-name="SITV魅力足球" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其它",SiTV-魅力足球
 http://192.168.100.1:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.v1.mk/logo/SITV七彩戏剧.png" group-title="其他",SiTV-七彩戏剧
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.v1.mk/logo/SITV七彩戏剧.png" group-title="其它",SiTV-七彩戏剧
 http://192.168.100.1:35455/itv/5000000011000031116.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV生活时尚" tvg-name="SITV生活时尚" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其他",SiTV-生活时尚
+#EXTINF:-1,tvg-id="SITV生活时尚" tvg-name="SITV生活时尚" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其它",SiTV-生活时尚
 http://192.168.100.1:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="SITV游戏风云" tvg-name="SITV游戏风云" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其他",SiTV-游戏风云
+#EXTINF:-1,tvg-id="SITV游戏风云" tvg-name="SITV游戏风云" tvg-logo="https://epg.v1.mk/logo/SITV.png" group-title="其它",SiTV-游戏风云
 http://192.168.100.1:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="IHOT爱电竞" tvg-name="IHOT爱电竞" tvg-logo="https://epg.v1.mk/logo/IHOT爱电竞.png" group-title="IHOT",iHOT-爱电竞
 http://192.168.100.1:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
