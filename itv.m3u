@@ -39,20 +39,18 @@ http://192.168.100.1:35455/ysptp/cctv15.m3u8
 http://192.168.100.1:35455/ysptp/cctv4k16_10m.m3u8
 #EXTINF:-1,tvg-id="cctv17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://192.168.100.1:35455/ysptp/cctv17.m3u8
-#EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视",cgtn
-http://192.168.100.1:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
-#EXTINF:-1,tvg-id="cgtn记录" tvg-name="cgtn记录" tvg-logo="https://epg.v1.mk/logo/cgtn记录.png" group-title="央视",cgtn记录
-http://192.168.100.1:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
-#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://epg.v1.mk/logo/cgtndocumentary.png" group-title="央视",cgtndoc
-http://192.168.100.1:35455/ysptp/cgtndoc.m3u8
-#EXTINF:-1,tvg-id="cgtnEN" tvg-name="cgtnEN" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视",cgtnen
+#EXTINF:-1,tvg-id="cgtnEN" tvg-name="cgtnEN" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视",CGTNEN
 http://192.168.100.1:35455/ysptp/cgtnen.m3u8
-#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://epg.v1.mk/logo/cgtnfrench.png" group-title="央视",cgtnfr
+#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://epg.v1.mk/logo/cgtndocumentary.png" group-title="央视",CGTNDOC
+http://192.168.100.1:35455/ysptp/cgtndoc.m3u8
+#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://epg.v1.mk/logo/cgtn法语.png" group-title="央视",CGTNFR
 http://192.168.100.1:35455/ysptp/cgtnfr.m3u8
-#EXTINF:-1,tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://epg.v1.mk/logo/cgtn1.png" group-title="央视",cgtnru
+#EXTINF:-1,tvg-id="cgtnru" tvg-name="cgtnru" tvg-logo="https://epg.v1.mk/logo/cgtn俄语.png" group-title="央视",CGTNRU
 http://192.168.100.1:35455/ysptp/cgtnru.m3u8
-#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://epg.v1.mk/logo/cgtn1.png" group-title="央视",cgtnsp
+#EXTINF:-1,tvg-id="cgtnsp" tvg-name="cgtnsp" tvg-logo="https://epg.v1.mk/logo/cgtn西班牙语.png" group-title="央视",CGTNSP
 http://192.168.100.1:35455/ysptp/cgtnsp.m3u8
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+https://gdcucc.v1.mk/gdcucc/G_CGTN_A.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="地方卫视",安徽卫视
 http://192.168.100.1:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="地方卫视",东南卫视
